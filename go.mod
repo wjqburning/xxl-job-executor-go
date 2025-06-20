@@ -1,4 +1,4 @@
-module github.com/xxl-job/xxl-job-executor-go
+module github.com/wjqburning/xxl-job-executor-go
 
 go 1.14
 
